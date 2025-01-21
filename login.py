@@ -5,6 +5,7 @@ utentePass = {
     'Lucano123': 'Pippoide201'
 }
 
+
 #simulazione del signup
 def sign_up():
     # Richiesta dell'username
